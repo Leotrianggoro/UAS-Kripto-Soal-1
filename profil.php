@@ -40,11 +40,11 @@
     </thead>
     <tbody>
       <tr>
-        <td>Mochammad Wisnu Pratama</td>
+        <td>Leo Tri Anggoro</td>
         <td>Laki-Laki</td>
         <td>Islam</td>
 		<td>Belum Menikah</td>
-		<td>Jl.Bhakti Husada Kota Bengkulu</td>
+		<td></td>
 		
       </tr>
     </tbody>
