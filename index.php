@@ -39,8 +39,7 @@
       <div class="card" style="width:350px">
   <img class="card-img-top" src="Wisnu.jpg" alt="Card image">
   <div class="card-body">
-    <h4 class="card-title">Mochammad Wisu Pratama</h4>
-	<p class="card-text">NPM : 1955201082.</p>
+    <h4 class="card-title">Leo Tri Anggoro</h4>
 	<p class="card-text">Teknik Informatika.</p>
     <p class="card-text">Universitas Muhammadiyah.</p>
     <a href="profil.php" class="btn btn-primary">See Profile</a>
